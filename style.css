@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    /* min-width: 620px; */
+}
+
+nav {
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 18px;
+    margin-left: 0;
+}
+
+.nav-item {
+    margin: auto 15px;
+}
+
+input[type="number"] {
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.modal-header {
+    color: gray;
+}
+
+
+#displayResultInfo {
+    margin-top: 40px;
+}
+
+.result {
+    font-size: 18px;
+    margin-top: -10px;
+    margin-left: -20px;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+#mainNumbers li  {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #555555;
+    margin: auto 5px;
+    padding: 8px;
+}
+
+#powerBall li {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align:center;
+    border: 1px solid #555; 
+    padding: 8px;
+    border-radius: 50%;
+}
+
+.matchingNumber {
+    background: gray;
+}
+#description {
+    margin-left: 60px;
+    font-size: 18px;
+}
+#price {
+    margin-left: 30px;
+    font-size: 18px;
+}
+
+#purchaseDate, #ticketDtail, #total{
+    margin-top: -15px;
+}
+
+#displayTicket, #display, #displayTicketResult {
+    margin-top: 20px;
+}
+
+.displayTicket {
+    margin-left: -10px;
+}
+
+#test {
+    border-radius: 505
+}
+
+
+.ticket {     /*  for the tickets */
+    min-width: 520px;
+    margin: 0;
+}
+
+span {
+    padding-top: 7px;
+}
+
+.material-icons.md-28 { 
+    font-size: 28px;
+}
+
+.summary {
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.footer {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.prizeMoney {
+    color: rgb(199, 77, 7);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.displayResult {
+    margin-top: 16px;
+}
+
+.spacer {
+    margin-left: 50px;
+}
+
+/* #ticketContainer {
+    margin-left: 150px;
+} */
+#adjust {
+    margin-left: 150px;
+   
+}
